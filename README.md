@@ -1,1 +1,4 @@
 # Vibe-Coding
+
+Business:
+Technical:
