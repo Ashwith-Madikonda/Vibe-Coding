@@ -17,12 +17,18 @@ Business/Domain Alignment: Does solution fit an enterprise organization goals?
 Value Addition: Does the solution meaningfully improve process, experience, or efficiency?
 
 
-Business Implementations:
+Features to develop:
+//we have to list the pages + interactions
 
-Technical Implemntations:
-1) Utilize angular framework.
-2) Write Unit tests
-3) Implement Authntication and authorization
 
-Prompts:
 
+Implemntation:
+1) We will develop a web application for the given problem statement, considering the features we have to develop, utilizing the angular framework. Create the application with the name "".
+2) I want you to take some time and focus on understanding the features first, then use the angular best practices for developing the required solution. Act like greatest engineer of all time and make this happen.
+3) Divide the application in to coponents
+4) Write Unit tests
+5) Implement Authntication and authorization
+6) no server, only json files or local storage.
+
+Additional Prompts:
+Error check: There are some errors. I will paste the error text or image, and you will help me to fix these errors so that i can test the changes that we made.
