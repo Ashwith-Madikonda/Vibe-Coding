@@ -3,7 +3,7 @@
 Nice to follow/Checks: 
 1) Stick to one model instead of switching between models once the coding starts.
 2) Utilizing the initial 1.5 hours to brain strom and gather requirements.
-3) Check the required software, internet connection, github copilot access and laptop configurations before accepting the laptop.
+3) Check the required software(angular cli version& node.js version), internet connection, github copilot access and laptop configurations before accepting the laptop.
 
 Problem statement:
 
