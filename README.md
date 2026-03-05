@@ -1,4 +1,4 @@
-# Vibe-Coding
+# Vibe-Coding (Lets keep updating this file, when ever we have some time)
 
 Nice to follow: 
 1) Stick to one model instead of switching between models once the coding starts
