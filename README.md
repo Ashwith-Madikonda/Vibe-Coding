@@ -32,3 +32,5 @@ Implemntation:
 
 Additional Prompts:
 Error check: There are some errors. I will paste the error text or image, and you will help me to fix these errors so that i can test the changes that we made.
+
+Simulate a 200–400ms API delay in backend responses to mimic real server behavior and utlize spinner.
